@@ -15,7 +15,8 @@
   "homepage": "https://github.com/jblsp/team16-largeproj#readme",
   "description": "",
   "devDependencies": {
-    "nodemon": "^3.1.7"
+    "nodemon": "^3.1.7",
+    "ts-node": "^10.9.2"
   },
   "dependencies": {
     "body-parser": "^1.20.3",
