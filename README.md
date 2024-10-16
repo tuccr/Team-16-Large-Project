@@ -1,7 +1,7 @@
 # Team 16 Large Project
 ## Setup for Development
 ### Requirements: 
-- (Node.js)[https://nodejs.org/en]
+- [Node.js](https://nodejs.org/en)
 1) Clone this repoistory `git clone https://github.com/tuccr/Team-16-Large-Project`
 2) Navigate to the repo `cd Team-16-Large-Project`
 3) Naviage to frontend/backend `cd frontend` / `cd backend`
